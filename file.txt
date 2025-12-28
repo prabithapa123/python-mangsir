@@ -1,0 +1,4 @@
+Hello this is create with open
+This is line 2
+3
+4This is append/nThis is appendThis is appendThis is appendThis is appendThis is append
